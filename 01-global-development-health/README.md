@@ -1,3 +1,3 @@
 # Global Development & Health Analysis
 
-Tableau Final Project
+Global socioeconomic development, life expectancy, and health outcomes analysis using Tableau.
