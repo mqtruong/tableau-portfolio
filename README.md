@@ -1,4 +1,4 @@
- # Tableau Analytics Portfoli
+ # Tableau Analytics Portfolio
 
 ## Overview
 
