@@ -135,7 +135,7 @@ Positive residuals indicate countries exceeding their GDP-predicted life expecta
 
 ### Dashboard 1 — Economic Development & Health
 
-![Economic Development and Health Dashboard](./images/dashboard_01.png)
+![Economic Development and Health Dashboard](./images/Dashboard%201%20-%20Economic%20Development%20%26%20Health.png)
 
 This dashboard examines the historical relationship between economic prosperity and population health.
 
@@ -149,7 +149,7 @@ Key features include:
 
 ### Dashboard 2 — Global Health Inequality
 
-![Global Health Inequality Dashboard](./images/dashboard_02.png)
+![Global Health Inequality Dashboard](./images/Dashboard%202%20-%20Global%20Health%20Inequality.png)
 
 This dashboard examines geographic disparities, country-level improvements, and deviations from expected health outcomes.
 
